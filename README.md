@@ -13,18 +13,14 @@ These are the current tags that will be used on each "Landing Page"
 
 - (sub: #2)
 
-![https://github.com/sweetfirekitsune/octo-mememory/wiki/platinum](https://img.shield.io/badge/Mobile-Platinum-990099.svg)
-![https://github.com/sweetfirekitsune/octo-mememory/wiki/crystal](https://img.shield.io/badge/Mobile-Crystal-000000.svg)
-![https://github.com/sweetfirekitsune/octo-mememory/wiki/diamond](https://img.shield.io/badge/Mobile-Diamond-999999.svg)
-![https://github.com/sweetfirekitsune/octo-mememory/wiki/topaz](https://img.shield.io/badge/Mobile-Topaz-000000.svg)
+![https://github.com/sweetfirekitsune/octo-mememory/wiki/platinum](https://img.shields.io/badge/Mobile-Platinum-990099.svg)
+![https://github.com/sweetfirekitsune/octo-mememory/wiki/crystal](https://img.shields.io/badge/Mobile-Crystal-000000.svg)
+![https://github.com/sweetfirekitsune/octo-mememory/wiki/diamond](https://img.shields.io/badge/Mobile-Diamond-999999.svg)
+![https://github.com/sweetfirekitsune/octo-mememory/wiki/topaz](https://img.shields.io/badge/Mobile-Topaz-000000.svg)
 
 - (sub: #3)
 
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/avalanche](https://img.shield.io/badge/Server-Avalanche-red.svg)
-![https://github.com/sweetfirekitsune/octo-mememory/wiki/](https://img.shield.io/badge/Server--.svg)
-![https://github.com/sweetfirekitsune/octo-mememory/wiki/](https://img.shield.io/badge/Server--.svg)
+![https://github.com/sweetfirekitsune/octo-mememory/wiki/landslide](https://img.shield.io/badge/Server-Landslide-996633.svg)
+![https://github.com/sweetfirekitsune/octo-mememory/wiki/tsunami](https://img.shield.io/badge/Server-Tsunami-blue.svg)
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/hackmanite](https://img.shield.io/badge/Network%20Attached%20Storage-Hackmanite-lightgrey.svg)
-
-- (sub: #4)
-
-![https://github.com/sweetfirekitsune/octo-mememory/wiki/](https://img.shield.io/badge/)
