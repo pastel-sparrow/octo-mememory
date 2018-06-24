@@ -10,16 +10,10 @@ These are the current tags that will be used on each "Landing Page"
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/obsidian](https://img.shields.io/badge/Desktop-Obsidian-000000.svg)
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/jasper](https://img.shields.io/badge/Desktop-Jasper-999999.svg)
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/opal](https://img.shields.io/badge/Desktop-Opal-999999.svg)
-
-- (sub: #2)
-
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/platinum](https://img.shields.io/badge/Mobile-Platinum-990099.svg)
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/crystal](https://img.shields.io/badge/Mobile-Crystal-000000.svg)
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/diamond](https://img.shields.io/badge/Mobile-Diamond-999999.svg)
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/topaz](https://img.shields.io/badge/Mobile-Topaz-000000.svg)
-
-- (sub: #3)
-
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/avalanche](https://img.shields.io/badge/Server-Avalanche-red.svg)
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/landslide](https://img.shields.io/badge/Server-Landslide-996633.svg)
 ![https://github.com/sweetfirekitsune/octo-mememory/wiki/tsunami](https://img.shields.io/badge/Server-Tsunami-blue.svg)
